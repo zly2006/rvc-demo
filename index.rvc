@@ -1,2 +1,2 @@
 RVC; Version: 1.0.0; Platform: MCMod/Reden
-{"type":"com.github.zly2006.reden.rvc.tracking.tracker.StructureTracker.Trackpoint","trackpoints":[{"relativeCoordinate":{"x":10,"y":-60,"z":0},"predicate":"QC","mode":"TRACK"},{"relativeCoordinate":{"x":9,"y":-61,"z":-2},"predicate":"Same","mode":"IGNORE"}]}
+{"type":"com.github.zly2006.reden.rvc.tracking.tracker.StructureTracker.Trackpoint","trackpoints":[{"relativeCoordinate":{"x":10,"y":-60,"z":0},"predicate":"QC","mode":"TRACK"},{"relativeCoordinate":{"x":9,"y":-61,"z":-2},"predicate":"Same","mode":"IGNORE"},{"relativeCoordinate":{"x":-2,"y":-60,"z":-2},"predicate":"QC","mode":"TRACK"}]}
